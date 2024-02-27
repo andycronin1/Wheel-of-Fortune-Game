@@ -1,4 +1,4 @@
-#Wheel of Fortune in python
+Wheel of Fortune in python
 
 More details about the game
 There are num_human human players and num_computer computer players.
