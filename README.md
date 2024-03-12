@@ -1,6 +1,5 @@
 Wheel of Fortune in python
 
-More details about the game
 There are num_human human players and num_computer computer players.
 Every player has some amount of money ($0 at the start of the game)
 Every player has a set of prizes (none at the start of the game)
